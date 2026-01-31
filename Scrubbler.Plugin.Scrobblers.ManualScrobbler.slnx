@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Scrubbler.Plugin.Scrobblers.ManualScrobbler/Scrubbler.Plugin.Scrobblers.ManualScrobbler.csproj" />
+  <Project Path="Scrubbler.Test.ManualScrobblerTest/Scrubbler.Test.ManualScrobblerTest.csproj" />
+</Solution>
