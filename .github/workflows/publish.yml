@@ -6,7 +6,7 @@ on:
 
 jobs:
   publish:
-    uses: SHOEGAZEssb/Scrubbler-Plugins/.github/workflows/publish-plugin-reusable.yml@main
+    uses: Scrubbler-Dev/Scrubbler-Plugins/.github/workflows/publish-plugin-reusable.yml@main
     with:
       plugin_name: Scrubbler.Plugin.Scrobblers.ManualScrobbler
       tfm: net10.0
