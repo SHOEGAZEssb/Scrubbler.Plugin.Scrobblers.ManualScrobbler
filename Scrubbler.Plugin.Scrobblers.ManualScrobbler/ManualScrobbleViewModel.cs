@@ -1,6 +1,6 @@
 using CommunityToolkit.Mvvm.ComponentModel;
-using Scrubbler.Abstractions;
-using Scrubbler.Abstractions.Plugin;
+using Scrubbler.PluginBase;
+using Scrubbler.PluginBase.Plugin;
 
 namespace Scrubbler.Plugin.Scrobblers.ManualScrobbler;
 
